@@ -1,3 +1,3 @@
-# All-codes-of-python
+# Basic Python Codes
 This repo. is just a storeage of my lerning pytho codes. 
-#Learnig PYTHON. 
+# Learnig PYTHON. 
